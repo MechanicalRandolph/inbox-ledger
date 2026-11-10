@@ -1,0 +1,9 @@
+# clasp login and project link (personal to your Google account)
+.clasprc.json
+.clasp.json
+
+# never commit exported email data
+*.csv
+*.xlsx
+
+.DS_Store
